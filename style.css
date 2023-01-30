@@ -9,6 +9,8 @@
 
     padding-top: 30px;
     margin-left: 20%;
+    height: 42px;
+    width: auto;
 }
 
 body {
@@ -20,7 +22,7 @@ h1 {
     font-weight: bolder;
 }
 
-#subtitle {
+.subtitle {
     color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
