@@ -8,7 +8,7 @@
 .logo {
 
     padding-top: 30px;
-    margin-left: 15%;
+    margin-left: 20%;
 }
 
 body {
@@ -33,14 +33,44 @@ h1 {
 }
 
 main {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subphoto{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 0;
+    margin: top 10px;
+
+}
+
+thead{
+    color: white;
+    background-color: rgb(72, 146, 211);
+    
+    
+}
+
+.tbody{
+    background-color: rgba(126, 190, 221, 0.733);
+
+}
+.tdata{
+    table-layout: fixed;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+.sottolineato{
+    background-color: yellow;
 }
 
 footer {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
     display: inline-grid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .caption {
@@ -60,4 +90,9 @@ footer {
     padding: 10px;
     left: 0;
     top: 0;
+}
+
+#news{
+    color: gray;
+    font-weight: 200;
 }
