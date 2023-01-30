@@ -24,8 +24,6 @@ h1 {
     color: gray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
-    padding: 0;
-
 }
 
 #Autor {
@@ -38,31 +36,32 @@ main {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.subphoto{
+.subphoto {
     font-size: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-top: 0;
-    margin: top 10px;
+    margin-top: 0px;
 
 }
 
-thead{
+thead {
     color: white;
     background-color: rgb(72, 146, 211);
-    
-    
+
+
 }
 
-.tbody{
+.tbody {
     background-color: rgba(126, 190, 221, 0.733);
 
 }
-.tdata{
+
+.tdata {
     table-layout: fixed;
     padding-left: 45px;
     padding-right: 45px;
 }
-.sottolineato{
+
+.sottolineato {
     background-color: yellow;
 }
 
@@ -92,7 +91,7 @@ footer {
     top: 0;
 }
 
-#news{
+#news {
     color: gray;
     font-weight: 200;
 }
