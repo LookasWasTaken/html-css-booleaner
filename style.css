@@ -43,6 +43,10 @@ main {
 
 }
 
+ul{
+    padding-left: 16px;
+}
+
 thead {
     color: white;
     background-color: rgb(72, 146, 211);
@@ -55,10 +59,18 @@ thead {
 
 }
 
+.thdata {
+    table-layout: fixed;
+    padding-right: 200px;
+    font-size: small;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
 .tdata {
     table-layout: fixed;
-    padding-left: 45px;
-    padding-right: 45px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+    font-size: small;
 }
 
 .sottolineato {
