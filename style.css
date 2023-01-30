@@ -1,3 +1,63 @@
-.sfondo{
+#header {
     background-color: rgb(72, 146, 211);
+    background-image: url(./img/pattern.png);
+    background-size: 15%;
+
+}
+
+.logo {
+
+    padding-top: 30px;
+    margin-left: 15%;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
+
+#subtitle {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    padding: 0;
+
+}
+
+#Autor {
+    color: rgb(72, 146, 211)
+}
+
+main {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+footer {
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-grid;
+}
+
+.caption {
+    position: relative;
+    overflow: hidden;
+
+}
+
+.overimg {
+    position: absolute;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+    float: left;
+    padding: 10px;
+    left: 0;
+    top: 0;
 }
