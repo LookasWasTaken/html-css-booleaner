@@ -5,6 +5,10 @@
 
 }
 
+table{
+    border-spacing: 0;
+}
+
 .logo {
 
     padding-top: 30px;
